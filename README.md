@@ -1,0 +1,4 @@
+SwtichySharp
+============
+
+my SwitchySharp config
